@@ -7,7 +7,7 @@ Developed an automated home security system that uses raspberry pi and other sen
 - Email is used as medium of communication between user and system
 - Remote commands can be sent by user via email to execute actions on the system at home
 - Pi speaker / any attached speaker can trigger alarm / speak remote text using text to speech synthesis (tts)
-- System can whitelist phone bluetooth HWID. If phone is detected within proximity,the system deactivates intrusion detection.
+- System can whitelist phone bluetooth HWID. If phone is detected to be within proximity, the system deactivates intrusion detection.
 - Multiprocessing module is used extensively making it possible for the system to check for remote commands and make the local intrusion detection processes work concurrently.
 
 
