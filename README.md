@@ -13,5 +13,5 @@ Developed an automated home security system that uses raspberry pi and other sen
 - Hardware setup information will be provided in future
 
 
-![alt tag](algorithm.jpg)
+![alt tag](Home_Security.png)
 
