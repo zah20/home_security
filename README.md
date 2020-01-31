@@ -22,24 +22,38 @@ Developed an automated home security system that uses raspberry pi and other sen
 
 ### Arm - Activate intrusion detection. 
 This uses the ultrasonic module to scan continuously for any signs of intrusion.
+```
 command: <bot@email.com> arm
+```
 
 
 ### Disarm - Deactivate intrusion detection
 Intrusion detection is disabled but the system still scans for remote commands
 continuously.
+
+```
 command: <bot@email.com> disarm
+```
 
 ### Snap - Take photo 
-A photo is taken using pi camera and is sent back as report to user's email
+A photo is taken using pi camera and is sent back as report to user's email.
+
+```
 command: <bot@email.com> snap
+```
 
 ### Quote - Speak a random quote using tts
 Quote is randomly generated and requires the package 'fortune' to be pre-installed.
+
+```
 command: <bot@email.com> quote
+```
 
 ### Text - Speak specified text using tts 
+
+```
 command: <bot@email.com> "This is a test"
+```
 
 
 ## TODO
