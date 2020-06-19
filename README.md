@@ -1,7 +1,11 @@
 # Automated Home Security System
 Developed an automated home security system that uses raspberry pi and other sensors to detect intrusion and execute remote commands.
 
-![alt tag](Home_Security.png)
+![alt tag](resource/img/hardware.png)
+
+## System Overview
+Please checkout the slide [click here](System_Overview.pdf)
+
 
 ## Features
 - Ultrasonic sensor is used to detect intrusion (door opening / closing)
