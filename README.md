@@ -60,8 +60,3 @@ command: <bot@email.com> "This is a test"
 ```
 
 
-## TODO
-- Detailed information regarding hardware & software setup will be provided soon
-
-
-
