@@ -21,9 +21,9 @@ Please checkout the slide [click here](System_Overview.pdf)
 
 
 ## Remote commands 
-Arm - Activate intrusion detection. 
-Disarm - Deactivate intrusion detection
-Snap - Take photo 
-Quote - Speak a random quote using tts
+Arm - Activate intrusion detection</br>
+Disarm - Deactivate intrusion detection</br>
+Snap - Take photo</br> 
+Quote - Speak a random quote using tts</br>
 
 ** This project is no longer publicly maintained **
