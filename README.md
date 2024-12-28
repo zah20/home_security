@@ -1,7 +1,7 @@
 # Automated Home Security System
 Developed an automated home security system that uses raspberry pi and other sensors to detect intrusion and execute remote commands.
 
-![alt tag](resource/img/hardware.png)
+![alt tag](hardware.png)
 
 ## System Overview
 Please checkout the slide [click here](System_Overview.pdf)
@@ -21,7 +21,6 @@ Please checkout the slide [click here](System_Overview.pdf)
 
 
 ## Remote commands 
-
 Arm - Activate intrusion detection. 
 Disarm - Deactivate intrusion detection
 Snap - Take photo 
