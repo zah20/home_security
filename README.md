@@ -3,10 +3,6 @@ Developed an automated home security system that uses raspberry pi and other sen
 
 ![alt tag](hardware.png)
 
-## System Overview
-Please checkout the slide [click here](System_Overview.pdf)
-
-
 ## Features
 - Ultrasonic sensor is used to detect intrusion (door opening / closing)
 - Pi Camera takes snap of intruder
